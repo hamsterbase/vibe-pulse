@@ -10,13 +10,13 @@
 
 ### Unified Approval Center
 
-<video src="https://raw.githubusercontent.com/hamsterbase/vibe-pulse/main/video/approvals.mp4" controls></video>
+![](video/approvals.mp4)
 
 All Claude Code permission requests flow through a single, elegant interface. Approve, deny, or provide feedback - all with one click.
 
 ### Real-Time Task Visualization
 
-<video src="https://raw.githubusercontent.com/hamsterbase/vibe-pulse/main/video/tasks.mp4" controls></video>
+![](video/tasks.mp4)
 
 Watch your AI tasks unfold in real-time. See what's running, what's completed, and dive into the details when you need them.
 
