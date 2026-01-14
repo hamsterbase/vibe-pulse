@@ -10,13 +10,13 @@
 
 ### Unified Approval Center
 
-<video src="video/approvals.mp4" controls></video>
+<video src="https://raw.githubusercontent.com/hamsterbase/vibe-pulse/main/video/approvals.mp4" controls></video>
 
 All Claude Code permission requests flow through a single, elegant interface. Approve, deny, or provide feedback - all with one click.
 
 ### Real-Time Task Visualization
 
-<video src="video/tasks.mp4" controls></video>
+<video src="https://raw.githubusercontent.com/hamsterbase/vibe-pulse/main/video/tasks.mp4" controls></video>
 
 Watch your AI tasks unfold in real-time. See what's running, what's completed, and dive into the details when you need them.
 
@@ -43,6 +43,14 @@ Vibe Pulse runs completely offline on your local machine. We have no servers, no
 - No usage data transmitted
 - No third-party tracking
 - All data stored locally on your device
+
+---
+
+## FAQ
+
+### Is Vibe Pulse open source?
+
+No. Vibe Pulse is not open source. This GitHub repository is only used for collecting issues and user feedback.
 
 ---
 
