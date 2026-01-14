@@ -16,7 +16,7 @@ All Claude Code permission requests flow through a single, elegant interface. Ap
 
 ### Real-Time Task Visualization
 
-https://raw.githubusercontent.com/hamsterbase/vibe-pulse/main/video/tasks.mp4
+![](tasks.gif)
 
 Watch your AI tasks unfold in real-time. See what's running, what's completed, and dive into the details when you need them.
 
