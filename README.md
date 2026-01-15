@@ -18,6 +18,12 @@ All Claude Code permission requests flow through a single, elegant interface. Ap
 
 Watch your AI tasks unfold in real-time. See what's running, what's completed, and dive into the details when you need them.
 
+### VSCode Integration
+
+![](video/vscode-agentpass.png)
+
+Approve operations directly from VSCode with [AgentPass](https://marketplace.visualstudio.com/items?itemName=hamsterbase.agent-pass) - no need to switch windows.
+
 ## Pricing
 
 **Free Trial**
